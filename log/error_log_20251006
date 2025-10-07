@@ -1,0 +1,687 @@
+[Mon Oct 06 00:00:02.537638 2025] [access_compat:error] [pid 40225] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:03:14.342273 2025] [access_compat:error] [pid 40617] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:05:38.840146 2025] [access_compat:error] [pid 40617] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:09:39.553452 2025] [access_compat:error] [pid 40494] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 00:09:55.650286 2025] [access_compat:error] [pid 40914] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:11:25.343289 2025] [access_compat:error] [pid 41076] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:14:26.573641 2025] [access_compat:error] [pid 41177] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:18:24.425367 2025] [access_compat:error] [pid 41183] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:18:25.108509 2025] [access_compat:error] [pid 41183] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/robots.txt
+[Mon Oct 06 00:18:25.560720 2025] [access_compat:error] [pid 41177] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/sitemap.xml
+[Mon Oct 06 00:18:28.411210 2025] [access_compat:error] [pid 41183] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.well-known
+[Mon Oct 06 00:18:31.980440 2025] [access_compat:error] [pid 41140] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico
+[Mon Oct 06 00:18:35.417873 2025] [access_compat:error] [pid 41140] [client 165.227.62.247:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico
+[Mon Oct 06 00:21:24.703966 2025] [access_compat:error] [pid 41647] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:36:47.299851 2025] [access_compat:error] [pid 41832] [client 45.88.186.85:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:44:12.057986 2025] [access_compat:error] [pid 43083] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:49:44.849450 2025] [access_compat:error] [pid 43327] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:56:21.344023 2025] [access_compat:error] [pid 43325] [client 45.94.211.213:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:58:00.570991 2025] [access_compat:error] [pid 43450] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 00:59:37.076912 2025] [access_compat:error] [pid 43681] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:07:09.404973 2025] [access_compat:error] [pid 44200] [client 91.231.89.235:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:08:26.091272 2025] [access_compat:error] [pid 44297] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:14:08.094165 2025] [access_compat:error] [pid 44360] [client 91.196.152.23:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico
+[Mon Oct 06 01:17:41.045525 2025] [access_compat:error] [pid 44869] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 01:28:10.216359 2025] [access_compat:error] [pid 45217] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:31:37.882675 2025] [access_compat:error] [pid 45178] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:33:35.563398 2025] [access_compat:error] [pid 45170] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 01:33:56.988913 2025] [access_compat:error] [pid 45597] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:34:07.568118 2025] [access_compat:error] [pid 45176] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:35:30.660929 2025] [access_compat:error] [pid 45179] [client 45.144.212.235:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/_profiler
+[Mon Oct 06 01:40:27.103661 2025] [access_compat:error] [pid 45927] [client 3.143.33.63:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:43:10.235645 2025] [access_compat:error] [pid 45911] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:44:14.365673 2025] [access_compat:error] [pid 45927] [client 3.143.33.63:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:44:39.625178 2025] [access_compat:error] [pid 45871] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:48:11.751116 2025] [access_compat:error] [pid 45911] [client 91.224.92.17:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 01:59:08.860702 2025] [access_compat:error] [pid 45916] [client 91.230.168.19:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:01:51.201302 2025] [access_compat:error] [pid 46458] [client 20.168.0.218:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/owa
+[Mon Oct 06 02:10:06.035386 2025] [access_compat:error] [pid 47065] [client 195.184.76.96:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico
+[Mon Oct 06 02:10:15.305103 2025] [access_compat:error] [pid 46458] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:11:05.972885 2025] [access_compat:error] [pid 45170] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 02:11:35.718707 2025] [access_compat:error] [pid 45911] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:11:43.364197 2025] [access_compat:error] [pid 45910] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:11:43.495089 2025] [access_compat:error] [pid 47062] [client 8.219.209.185:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:12:04.049584 2025] [access_compat:error] [pid 47065] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:13:12.070367 2025] [access_compat:error] [pid 47065] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:16:33.535103 2025] [access_compat:error] [pid 45871] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:17:37.589279 2025] [access_compat:error] [pid 45916] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:29:02.847700 2025] [access_compat:error] [pid 48078] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 02:30:08.860337 2025] [access_compat:error] [pid 48153] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:32:32.975565 2025] [access_compat:error] [pid 48153] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:33:54.789288 2025] [access_compat:error] [pid 48073] [client 88.210.63.67:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/boaform, referer: http://153.127.111.208:80/admin/login.asp
+[Mon Oct 06 02:46:01.990611 2025] [access_compat:error] [pid 48721] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:46:02.696490 2025] [access_compat:error] [pid 48721] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/containers
+[Mon Oct 06 02:46:03.937146 2025] [access_compat:error] [pid 48919] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 02:46:04.051913 2025] [access_compat:error] [pid 48919] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:46:04.263500 2025] [access_compat:error] [pid 48919] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/containers
+[Mon Oct 06 02:46:04.392894 2025] [access_compat:error] [pid 48919] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.bak
+[Mon Oct 06 02:46:04.639326 2025] [access_compat:error] [pid 48919] [client 116.198.238.191:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/version
+[Mon Oct 06 02:46:57.575252 2025] [access_compat:error] [pid 48722] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:47:48.236283 2025] [access_compat:error] [pid 48921] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:53:47.966773 2025] [access_compat:error] [pid 48921] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 02:53:53.258682 2025] [access_compat:error] [pid 48724] [client 93.174.93.12:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:03:19.479712 2025] [access_compat:error] [pid 49632] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:12:22.750204 2025] [access_compat:error] [pid 50517] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 03:15:06.109938 2025] [access_compat:error] [pid 50568] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:16:37.232112 2025] [access_compat:error] [pid 50566] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:21:26.485212 2025] [access_compat:error] [pid 50569] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:22:35.706220 2025] [access_compat:error] [pid 49631] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:24:51.802417 2025] [access_compat:error] [pid 50516] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:29:59.821632 2025] [access_compat:error] [pid 51707] [client 5.189.141.59:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 03:39:49.193228 2025] [access_compat:error] [pid 51718] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:43:01.606854 2025] [access_compat:error] [pid 50567] [client 3.131.215.38:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:43:28.732531 2025] [access_compat:error] [pid 51716] [client 198.235.24.68:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:46:03.559553 2025] [access_compat:error] [pid 51710] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 03:59:09.264768 2025] [access_compat:error] [pid 51710] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:03:00.142400 2025] [access_compat:error] [pid 53300] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:04:03.369878 2025] [access_compat:error] [pid 53407] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:08:40.260717 2025] [access_compat:error] [pid 53291] [client 82.62.84.143:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:09:41.108202 2025] [access_compat:error] [pid 53292] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 04:09:50.608548 2025] [access_compat:error] [pid 53281] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:12:57.129881 2025] [access_compat:error] [pid 53281] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 04:20:58.475175 2025] [access_compat:error] [pid 53290] [client 34.76.210.122:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:21:06.788679 2025] [access_compat:error] [pid 53292] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:26:10.580713 2025] [access_compat:error] [pid 53281] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:38:39.423053 2025] [access_compat:error] [pid 54718] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:38:39.931975 2025] [access_compat:error] [pid 53292] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 04:40:06.626964 2025] [access_compat:error] [pid 54047] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:40:14.126497 2025] [access_compat:error] [pid 53281] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:43:49.003039 2025] [access_compat:error] [pid 53292] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:50:40.655561 2025] [access_compat:error] [pid 55873] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 04:52:13.942861 2025] [access_compat:error] [pid 55873] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:00:23.603900 2025] [access_compat:error] [pid 56137] [client 79.124.58.198:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:03:44.054087 2025] [access_compat:error] [pid 56124] [client 15.235.227.163:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:05:01.624954 2025] [access_compat:error] [pid 56137] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:05:56.570873 2025] [access_compat:error] [pid 56297] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 05:10:37.394416 2025] [access_compat:error] [pid 56297] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:16:13.724178 2025] [access_compat:error] [pid 56125] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:17:13.196450 2025] [access_compat:error] [pid 56128] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:17:44.777556 2025] [access_compat:error] [pid 56127] [client 34.147.16.58:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:18:46.241796 2025] [access_compat:error] [pid 56297] [client 142.93.158.21:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:18:46.573995 2025] [access_compat:error] [pid 56128] [client 142.93.158.21:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico, referer: http://153.127.111.208/
+[Mon Oct 06 05:19:27.559654 2025] [access_compat:error] [pid 56298] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:19:28.075650 2025] [access_compat:error] [pid 56130] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 05:20:55.299398 2025] [access_compat:error] [pid 57453] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:27:00.112026 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 05:27:00.406811 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/update
+[Mon Oct 06 05:27:00.672962 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app
+[Mon Oct 06 05:27:00.936908 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 05:27:01.203118 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/private
+[Mon Oct 06 05:27:01.475755 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 05:27:01.743486 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/src
+[Mon Oct 06 05:27:02.002253 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 05:27:02.265955 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/frontend
+[Mon Oct 06 05:27:02.543383 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 05:27:02.862262 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dev
+[Mon Oct 06 05:27:03.125931 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backup
+[Mon Oct 06 05:27:03.393070 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/production
+[Mon Oct 06 05:27:03.658019 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/website
+[Mon Oct 06 05:27:03.921571 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/portal
+[Mon Oct 06 05:27:04.214312 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dashboard
+[Mon Oct 06 05:27:04.476335 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/cms
+[Mon Oct 06 05:27:04.736303 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp-content
+[Mon Oct 06 05:27:04.995482 2025] [access_compat:error] [pid 57669] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blog
+[Mon Oct 06 05:27:06.047601 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 05:27:06.303998 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/update
+[Mon Oct 06 05:27:06.560708 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app
+[Mon Oct 06 05:27:06.819501 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 05:27:07.076240 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/private
+[Mon Oct 06 05:27:07.496162 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 05:27:07.762582 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/src
+[Mon Oct 06 05:27:08.020712 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 05:27:08.330615 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/frontend
+[Mon Oct 06 05:27:08.588378 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 05:27:08.857528 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dev
+[Mon Oct 06 05:27:09.161382 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backup
+[Mon Oct 06 05:27:09.423253 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/production
+[Mon Oct 06 05:27:09.680126 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/website
+[Mon Oct 06 05:27:09.953212 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/portal
+[Mon Oct 06 05:27:10.209860 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dashboard
+[Mon Oct 06 05:27:10.473386 2025] [access_compat:error] [pid 57688] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/cms
+[Mon Oct 06 05:27:10.750997 2025] [access_compat:error] [pid 57742] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp-content
+[Mon Oct 06 05:27:11.014992 2025] [access_compat:error] [pid 57747] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blog
+[Mon Oct 06 05:33:07.006308 2025] [access_compat:error] [pid 57817] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 05:33:38.442469 2025] [access_compat:error] [pid 57814] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:40:02.070386 2025] [access_compat:error] [pid 57814] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:50:37.225014 2025] [access_compat:error] [pid 58707] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:52:45.494209 2025] [access_compat:error] [pid 59018] [client 162.142.125.126:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:53:05.033484 2025] [access_compat:error] [pid 59019] [client 162.142.125.126:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/login
+[Mon Oct 06 05:53:10.644446 2025] [access_compat:error] [pid 58847] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 05:54:11.096440 2025] [access_compat:error] [pid 59024] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:01:12.833602 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 06:01:13.123695 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/update
+[Mon Oct 06 06:01:13.381573 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app
+[Mon Oct 06 06:01:13.657723 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 06:01:13.904522 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/private
+[Mon Oct 06 06:01:14.151857 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 06:01:14.398544 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/src
+[Mon Oct 06 06:01:14.658941 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 06:01:14.905552 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/frontend
+[Mon Oct 06 06:01:15.181439 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 06:01:15.463938 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dev
+[Mon Oct 06 06:01:15.715897 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backup
+[Mon Oct 06 06:01:15.962731 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/production
+[Mon Oct 06 06:01:16.217870 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/website
+[Mon Oct 06 06:01:16.481844 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/portal
+[Mon Oct 06 06:01:16.740072 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dashboard
+[Mon Oct 06 06:01:16.986776 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/cms
+[Mon Oct 06 06:01:17.248260 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp-content
+[Mon Oct 06 06:01:17.495310 2025] [access_compat:error] [pid 59023] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blog
+[Mon Oct 06 06:01:18.576001 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 06:01:18.836041 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/update
+[Mon Oct 06 06:01:19.112962 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app
+[Mon Oct 06 06:01:19.433112 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 06:01:19.756116 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/private
+[Mon Oct 06 06:01:20.014964 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 06:01:20.275565 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/src
+[Mon Oct 06 06:01:20.532615 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 06:01:20.850951 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/frontend
+[Mon Oct 06 06:01:21.107946 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 06:01:21.365170 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dev
+[Mon Oct 06 06:01:21.626137 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backup
+[Mon Oct 06 06:01:21.891523 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/production
+[Mon Oct 06 06:01:22.150628 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/website
+[Mon Oct 06 06:01:22.411288 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/portal
+[Mon Oct 06 06:01:22.676396 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/dashboard
+[Mon Oct 06 06:01:22.972142 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/cms
+[Mon Oct 06 06:01:23.262837 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp-content
+[Mon Oct 06 06:01:23.524082 2025] [access_compat:error] [pid 59021] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blog
+[Mon Oct 06 06:06:42.398529 2025] [access_compat:error] [pid 58543] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:12:19.405170 2025] [access_compat:error] [pid 59022] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:15:14.190625 2025] [access_compat:error] [pid 60025] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 06:15:20.584687 2025] [access_compat:error] [pid 59022] [client 79.124.58.198:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/actuator
+[Mon Oct 06 06:21:34.355211 2025] [access_compat:error] [pid 60013] [client 165.232.138.241:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:21:37.399747 2025] [access_compat:error] [pid 60016] [client 165.232.138.241:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico, referer: https://153.127.111.208/
+[Mon Oct 06 06:24:10.591169 2025] [access_compat:error] [pid 60528] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:25:07.510784 2025] [access_compat:error] [pid 59020] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 06:25:14.062021 2025] [access_compat:error] [pid 60544] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:25:37.032859 2025] [access_compat:error] [pid 60013] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:31:53.793075 2025] [access_compat:error] [pid 60805] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:36:17.298478 2025] [access_compat:error] [pid 60146] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:57:04.412423 2025] [access_compat:error] [pid 62061] [client 185.177.72.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 06:58:59.111586 2025] [access_compat:error] [pid 62028] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 07:04:50.817856 2025] [access_compat:error] [pid 63400] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:11:29.143376 2025] [access_compat:error] [pid 63859] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/global-protect
+[Mon Oct 06 07:11:30.196567 2025] [access_compat:error] [pid 63859] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/ssl-vpn
+[Mon Oct 06 07:11:32.687284 2025] [access_compat:error] [pid 63966] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/global-protect
+[Mon Oct 06 07:12:26.061916 2025] [access_compat:error] [pid 63966] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:14:11.689452 2025] [access_compat:error] [pid 63964] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:16:32.145611 2025] [access_compat:error] [pid 64198] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:20:58.984501 2025] [access_compat:error] [pid 64248] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:21:31.902206 2025] [access_compat:error] [pid 64198] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:23:25.483716 2025] [access_compat:error] [pid 64117] [client 209.38.35.74:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 07:23:26.994090 2025] [access_compat:error] [pid 64241] [client 209.38.35.74:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 07:31:00.279945 2025] [access_compat:error] [pid 64791] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:31:00.808030 2025] [access_compat:error] [pid 64795] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 07:33:37.996491 2025] [access_compat:error] [pid 64850] [client 185.242.226.112:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:36:50.042807 2025] [access_compat:error] [pid 65329] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:37:57.767855 2025] [access_compat:error] [pid 64795] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 07:56:21.276849 2025] [access_compat:error] [pid 66242] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:57:07.188751 2025] [access_compat:error] [pid 66250] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 07:58:29.369203 2025] [access_compat:error] [pid 66240] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:02:32.266475 2025] [access_compat:error] [pid 66492] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:03:21.355944 2025] [access_compat:error] [pid 66767] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:11:08.851288 2025] [access_compat:error] [pid 67034] [client 85.215.141.183:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 08:11:09.407782 2025] [access_compat:error] [pid 67034] [client 85.215.141.183:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:11:09.962959 2025] [access_compat:error] [pid 66745] [client 85.215.141.183:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/sendgrid
+[Mon Oct 06 08:11:10.520796 2025] [access_compat:error] [pid 67129] [client 85.215.141.183:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:16:38.774163 2025] [access_compat:error] [pid 67620] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:19:49.143675 2025] [access_compat:error] [pid 67404] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:29:45.527066 2025] [access_compat:error] [pid 68416] [client 20.83.40.172:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/actuator
+[Mon Oct 06 08:31:04.604764 2025] [access_compat:error] [pid 68424] [client 161.132.56.168:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 08:31:05.072174 2025] [access_compat:error] [pid 69532] [client 161.132.56.168:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:31:06.311136 2025] [access_compat:error] [pid 69559] [client 161.132.56.168:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 08:31:07.301023 2025] [access_compat:error] [pid 69559] [client 161.132.56.168:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:32:18.091087 2025] [access_compat:error] [pid 69629] [client 104.224.30.189:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 08:38:33.091611 2025] [access_compat:error] [pid 69997] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 08:39:27.925648 2025] [access_compat:error] [pid 69985] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:41:19.229989 2025] [access_compat:error] [pid 70049] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:41:58.737976 2025] [access_compat:error] [pid 70066] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:45:13.393663 2025] [access_compat:error] [pid 70186] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 08:50:12.922162 2025] [access_compat:error] [pid 70735] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:11:44.546558 2025] [access_compat:error] [pid 71751] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:15:05.802881 2025] [access_compat:error] [pid 72188] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:18:07.282814 2025] [access_compat:error] [pid 72262] [client 185.49.171.48:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:20:58.251793 2025] [access_compat:error] [pid 72192] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:23:22.399754 2025] [access_compat:error] [pid 72676] [client 2620:96:e000::12e:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:24:07.456879 2025] [access_compat:error] [pid 72926] [client 2620:96:e000::12e:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wiki
+[Mon Oct 06 09:24:52.283439 2025] [access_compat:error] [pid 72921] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:25:00.485868 2025] [access_compat:error] [pid 72985] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:25:44.481324 2025] [access_compat:error] [pid 72977] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:27:25.556594 2025] [access_compat:error] [pid 73111] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:29:42.649189 2025] [access_compat:error] [pid 73112] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:29:43.184684 2025] [access_compat:error] [pid 72977] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 09:31:28.572641 2025] [access_compat:error] [pid 73111] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:34:29.140071 2025] [access_compat:error] [pid 73511] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 09:39:49.137599 2025] [access_compat:error] [pid 73643] [client 104.210.140.138:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/robots.txt
+[Mon Oct 06 09:41:21.254226 2025] [access_compat:error] [pid 73835] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:48:03.085356 2025] [access_compat:error] [pid 73899] [client 14.11.39.160:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp
+[Mon Oct 06 09:48:04.263932 2025] [access_compat:error] [pid 73897] [client 14.11.39.160:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/favicon.ico, referer: https://orchidhippo5.sakura.ne.jp/wp/wp-admin/widgets.php
+[Mon Oct 06 09:50:43.860266 2025] [access_compat:error] [pid 74189] [client 17.241.75.231:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/robots.txt
+[Mon Oct 06 09:56:04.778663 2025] [access_compat:error] [pid 74667] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 09:59:24.980952 2025] [access_compat:error] [pid 74854] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 10:05:59.081432 2025] [access_compat:error] [pid 75184] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:06:20.077293 2025] [access_compat:error] [pid 74872] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:10:03.637314 2025] [access_compat:error] [pid 75166] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:14:58.343480 2025] [access_compat:error] [pid 75604] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:16:51.813720 2025] [access_compat:error] [pid 75652] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:19:21.884281 2025] [access_compat:error] [pid 75888] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 10:22:30.783769 2025] [access_compat:error] [pid 76092] [client 44.201.173.159:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:27:16.407207 2025] [access_compat:error] [pid 76433] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:33:57.621080 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:57.621137 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:57.622661 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:57.622676 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:57.622686 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:58.735849 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:58.735895 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:58.736013 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:58.736026 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:33:58.736037 2025] [php:notice] [pid 76573] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/_cms/wp-admin/post.php?post=69997&action=edit
+[Mon Oct 06 10:41:44.368545 2025] [access_compat:error] [pid 77254] [client 178.62.69.40:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 10:41:44.877195 2025] [access_compat:error] [pid 77257] [client 178.62.69.40:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 10:42:13.775331 2025] [access_compat:error] [pid 77250] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:42:28.482186 2025] [access_compat:error] [pid 77254] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:48:08.726525 2025] [access_compat:error] [pid 77444] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:52:13.181039 2025] [access_compat:error] [pid 77835] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:52:26.438583 2025] [access_compat:error] [pid 77585] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:54:06.770601 2025] [access_compat:error] [pid 77632] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:58:05.026211 2025] [access_compat:error] [pid 78116] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 10:58:21.854374 2025] [access_compat:error] [pid 77631] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:06:58.370545 2025] [access_compat:error] [pid 78561] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:11:11.211089 2025] [access_compat:error] [pid 78893] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 11:14:59.783042 2025] [access_compat:error] [pid 79326] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:15:31.349162 2025] [access_compat:error] [pid 79430] [client 172.236.228.208:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:17:17.529151 2025] [access_compat:error] [pid 79369] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:20:50.497435 2025] [access_compat:error] [pid 79752] [client 34.72.176.129:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:21:28.005178 2025] [access_compat:error] [pid 79837] [client 104.197.69.115:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:25:56.724068 2025] [access_compat:error] [pid 79950] [client 164.92.117.229:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/aaa9
+[Mon Oct 06 11:26:13.937003 2025] [access_compat:error] [pid 80081] [client 164.92.117.229:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/aab8
+[Mon Oct 06 11:26:34.444782 2025] [access_compat:error] [pid 80085] [client 164.92.117.229:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:27:12.156322 2025] [access_compat:error] [pid 80175] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 11:28:46.197014 2025] [access_compat:error] [pid 80206] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:31:53.941975 2025] [access_compat:error] [pid 80361] [client 45.79.115.59:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:33:41.736340 2025] [access_compat:error] [pid 80587] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:37:58.502545 2025] [access_compat:error] [pid 80514] [client 172.234.217.129:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:41:09.482202 2025] [access_compat:error] [pid 80953] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 11:41:10.167625 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/debug
+[Mon Oct 06 11:41:10.432387 2025] [access_compat:error] [pid 80952] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 11:41:10.883157 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/images
+[Mon Oct 06 11:41:11.633970 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.save.1
+[Mon Oct 06 11:41:12.241832 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/debug
+[Mon Oct 06 11:41:12.404821 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.json
+[Mon Oct 06 11:41:13.139124 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/library
+[Mon Oct 06 11:41:13.994684 2025] [access_compat:error] [pid 81024] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/API
+[Mon Oct 06 11:41:14.330293 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/images
+[Mon Oct 06 11:41:14.698294 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/client
+[Mon Oct 06 11:41:15.329854 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blogs
+[Mon Oct 06 11:41:15.981463 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/settings
+[Mon Oct 06 11:41:16.652833 2025] [access_compat:error] [pid 80954] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.save.1
+[Mon Oct 06 11:41:16.798527 2025] [access_compat:error] [pid 80964] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.prod
+[Mon Oct 06 11:41:17.495372 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/html
+[Mon Oct 06 11:41:18.421440 2025] [access_compat:error] [pid 80885] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.json
+[Mon Oct 06 11:41:19.409190 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/aws.yml
+[Mon Oct 06 11:41:20.090308 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/apis
+[Mon Oct 06 11:41:20.726566 2025] [access_compat:error] [pid 80999] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/stage
+[Mon Oct 06 11:41:20.930837 2025] [access_compat:error] [pid 80954] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/library
+[Mon Oct 06 11:41:21.741946 2025] [access_compat:error] [pid 81024] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/auth
+[Mon Oct 06 11:41:22.510833 2025] [access_compat:error] [pid 80953] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/API
+[Mon Oct 06 11:41:23.520345 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/env.txt
+[Mon Oct 06 11:41:24.184554 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/test.php
+[Mon Oct 06 11:41:24.610305 2025] [access_compat:error] [pid 80885] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/client
+[Mon Oct 06 11:41:24.926494 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/platform
+[Mon Oct 06 11:41:25.726725 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/data
+[Mon Oct 06 11:41:26.108964 2025] [access_compat:error] [pid 80824] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/blogs
+[Mon Oct 06 11:41:26.393144 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/www
+[Mon Oct 06 11:41:27.133424 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/developer
+[Mon Oct 06 11:41:27.608883 2025] [access_compat:error] [pid 80995] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/settings
+[Mon Oct 06 11:41:27.812471 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 11:41:28.482604 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/media
+[Mon Oct 06 11:41:29.239156 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-public
+[Mon Oct 06 11:41:29.536377 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.prod
+[Mon Oct 06 11:41:29.955943 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-apache
+[Mon Oct 06 11:41:30.656950 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-logger
+[Mon Oct 06 11:41:31.270183 2025] [access_compat:error] [pid 80824] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/html
+[Mon Oct 06 11:41:31.405165 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.twilio
+[Mon Oct 06 11:41:32.084197 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-svelte
+[Mon Oct 06 11:41:32.733079 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-python
+[Mon Oct 06 11:41:32.884281 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/aws.yml
+[Mon Oct 06 11:41:33.533450 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-stripe
+[Mon Oct 06 11:41:34.587069 2025] [access_compat:error] [pid 81037] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/apis
+[Mon Oct 06 11:41:36.576063 2025] [access_compat:error] [pid 81037] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/stage
+[Mon Oct 06 11:41:38.391145 2025] [access_compat:error] [pid 81037] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/auth
+[Mon Oct 06 11:41:39.875765 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/env.txt
+[Mon Oct 06 11:41:41.572071 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/test.php
+[Mon Oct 06 11:41:43.521876 2025] [access_compat:error] [pid 80953] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/platform
+[Mon Oct 06 11:41:45.452804 2025] [access_compat:error] [pid 81005] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/data
+[Mon Oct 06 11:41:47.193406 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/www
+[Mon Oct 06 11:41:49.128904 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/developer
+[Mon Oct 06 11:41:51.250959 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/home
+[Mon Oct 06 11:41:52.874273 2025] [access_compat:error] [pid 80952] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/media
+[Mon Oct 06 11:41:54.254266 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-public
+[Mon Oct 06 11:41:56.036243 2025] [access_compat:error] [pid 81010] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-apache
+[Mon Oct 06 11:41:58.914777 2025] [access_compat:error] [pid 81034] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-logger
+[Mon Oct 06 11:42:01.074957 2025] [access_compat:error] [pid 80952] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.twilio
+[Mon Oct 06 11:42:03.708182 2025] [access_compat:error] [pid 81031] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-svelte
+[Mon Oct 06 11:42:05.431691 2025] [access_compat:error] [pid 81056] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-python
+[Mon Oct 06 11:42:07.429565 2025] [access_compat:error] [pid 81070] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:42:07.628426 2025] [access_compat:error] [pid 81056] [client 78.153.140.224:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env-stripe
+[Mon Oct 06 11:47:06.090427 2025] [access_compat:error] [pid 81353] [client 2620:96:e000::10a:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:47:10.095717 2025] [access_compat:error] [pid 81357] [client 2620:96:e000::10a:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/login
+[Mon Oct 06 11:48:32.411528 2025] [access_compat:error] [pid 81446] [client 213.209.157.162:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 11:48:48.069078 2025] [access_compat:error] [pid 81446] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:51:49.366472 2025] [access_compat:error] [pid 81608] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:53:59.403877 2025] [access_compat:error] [pid 81699] [client 74.82.47.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:55:48.890100 2025] [access_compat:error] [pid 81606] [client 74.82.47.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/webui
+[Mon Oct 06 11:56:15.862038 2025] [access_compat:error] [pid 81692] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:57:58.078283 2025] [access_compat:error] [pid 81939] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:58:16.739344 2025] [access_compat:error] [pid 81994] [client 74.82.47.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/geoserver
+[Mon Oct 06 11:58:39.712749 2025] [access_compat:error] [pid 81693] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 11:58:44.102618 2025] [access_compat:error] [pid 81952] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 12:13:34.801959 2025] [access_compat:error] [pid 82583] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:15:13.583334 2025] [access_compat:error] [pid 83035] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:16:45.833500 2025] [access_compat:error] [pid 82953] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:20:41.672824 2025] [access_compat:error] [pid 83341] [client 43.157.170.126:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:27:44.491018 2025] [access_compat:error] [pid 83927] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:28:28.276689 2025] [access_compat:error] [pid 83871] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:30:45.598134 2025] [access_compat:error] [pid 83942] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:31:18.884940 2025] [access_compat:error] [pid 83993] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:34:54.285007 2025] [access_compat:error] [pid 84285] [client 79.124.58.198:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:36:50.410518 2025] [access_compat:error] [pid 84391] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 12:38:22.881976 2025] [access_compat:error] [pid 84393] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:56:05.474873 2025] [access_compat:error] [pid 85558] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 12:57:15.947120 2025] [access_compat:error] [pid 85598] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:04:21.507472 2025] [access_compat:error] [pid 85982] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 13:04:24.921228 2025] [access_compat:error] [pid 86051] [client 192.155.91.55:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:09:40.519865 2025] [access_compat:error] [pid 86158] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:13:24.294408 2025] [access_compat:error] [pid 86479] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:18:05.508291 2025] [access_compat:error] [pid 86845] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:38:47.198007 2025] [access_compat:error] [pid 87993] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:40:19.941100 2025] [access_compat:error] [pid 88111] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:43:59.166632 2025] [access_compat:error] [pid 88357] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 13:53:32.151470 2025] [access_compat:error] [pid 88809] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 13:57:22.420502 2025] [access_compat:error] [pid 89130] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:01:20.133307 2025] [access_compat:error] [pid 89344] [client 162.216.150.115:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:03:46.741063 2025] [php:notice] [pid 89523] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:03:46.741117 2025] [php:notice] [pid 89523] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:03:46.742346 2025] [php:notice] [pid 89523] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:03:46.742359 2025] [php:notice] [pid 89523] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:03:46.742371 2025] [php:notice] [pid 89523] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:03:50.006333 2025] [access_compat:error] [pid 89483] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:05:28.904090 2025] [php:notice] [pid 89561] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:05:28.904142 2025] [php:notice] [pid 89561] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:05:28.905616 2025] [php:notice] [pid 89561] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:05:28.905632 2025] [php:notice] [pid 89561] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:05:28.905644 2025] [php:notice] [pid 89561] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:07:32.409799 2025] [access_compat:error] [pid 89747] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:08:21.214741 2025] [access_compat:error] [pid 89736] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:09:06.027462 2025] [access_compat:error] [pid 89806] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 14:13:31.021855 2025] [php:notice] [pid 90032] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:13:31.021908 2025] [php:notice] [pid 90032] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:13:31.024052 2025] [php:notice] [pid 90032] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:13:31.024072 2025] [php:notice] [pid 90032] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:13:31.024086 2025] [php:notice] [pid 90032] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:13:47.620803 2025] [access_compat:error] [pid 90032] [client 34.79.81.77:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:14:57.923851 2025] [access_compat:error] [pid 90117] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:21:37.857471 2025] [php:notice] [pid 90579] [client 126.144.9.29:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:21:37.857523 2025] [php:notice] [pid 90579] [client 126.144.9.29:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:21:37.859049 2025] [php:notice] [pid 90579] [client 126.144.9.29:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:21:37.859080 2025] [php:notice] [pid 90579] [client 126.144.9.29:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:21:37.859092 2025] [php:notice] [pid 90579] [client 126.144.9.29:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 14:21:52.960329 2025] [access_compat:error] [pid 90451] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:22:58.060575 2025] [access_compat:error] [pid 90593] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:23:16.733738 2025] [access_compat:error] [pid 90680] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:28:24.594079 2025] [access_compat:error] [pid 90922] [client 35.233.94.99:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:31:30.698481 2025] [access_compat:error] [pid 91172] [client 91.208.184.85:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/php-cgi
+[Mon Oct 06 14:36:36.555446 2025] [php:notice] [pid 91508] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:36:36.555482 2025] [php:notice] [pid 91508] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:36:36.556637 2025] [php:notice] [pid 91508] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:36:36.556648 2025] [php:notice] [pid 91508] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:36:36.556657 2025] [php:notice] [pid 91508] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:23.752542 2025] [php:notice] [pid 91689] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:23.752576 2025] [php:notice] [pid 91689] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:23.753781 2025] [php:notice] [pid 91689] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:23.753792 2025] [php:notice] [pid 91689] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:23.753801 2025] [php:notice] [pid 91689] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:41:50.592727 2025] [access_compat:error] [pid 91705] [client 49.51.243.95:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:43:56.292847 2025] [php:notice] [pid 91892] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:43:56.292884 2025] [php:notice] [pid 91892] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:43:56.294019 2025] [php:notice] [pid 91892] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:43:56.294036 2025] [php:notice] [pid 91892] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:43:56.294046 2025] [php:notice] [pid 91892] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/inquiry/confirm/
+[Mon Oct 06 14:46:28.190713 2025] [access_compat:error] [pid 92143] [client 79.124.58.198:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/actuator
+[Mon Oct 06 14:46:32.310157 2025] [access_compat:error] [pid 92132] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 14:47:18.477443 2025] [access_compat:error] [pid 92188] [client 64.62.197.77:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:47:23.606490 2025] [access_compat:error] [pid 92135] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 14:50:40.612131 2025] [access_compat:error] [pid 92377] [client 64.62.197.77:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/webui
+[Mon Oct 06 14:51:20.706368 2025] [access_compat:error] [pid 92436] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 14:58:04.004892 2025] [access_compat:error] [pid 92763] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:04:21.432927 2025] [access_compat:error] [pid 93239] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:05:04.379989 2025] [access_compat:error] [pid 93196] [client 64.62.197.77:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/geoserver
+[Mon Oct 06 15:05:12.391976 2025] [access_compat:error] [pid 93258] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:08:12.461941 2025] [access_compat:error] [pid 93397] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:09:13.287768 2025] [access_compat:error] [pid 93493] [client 64.62.197.77:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 15:16:06.830200 2025] [access_compat:error] [pid 93953] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:23:42.801984 2025] [access_compat:error] [pid 94182] [client 162.216.149.17:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:25:48.595466 2025] [access_compat:error] [pid 94565] [client 20.169.83.157:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/developmentserver
+[Mon Oct 06 15:32:00.360150 2025] [access_compat:error] [pid 94958] [client 103.252.89.75:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:34:49.525388 2025] [access_compat:error] [pid 95128] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:35:20.303485 2025] [access_compat:error] [pid 95167] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:39:25.716986 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:25.717027 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:25.718619 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:25.718640 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:25.718655 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.604156 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.604229 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.604393 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.604417 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.604430 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.611436 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.611482 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.611595 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.611609 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:27.611620 2025] [php:notice] [pid 95278] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:39:56.289800 2025] [access_compat:error] [pid 95472] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:44:12.192218 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:12.192258 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:12.193469 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:12.193480 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:12.193489 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.542584 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.542636 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.542728 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.542736 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.542743 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.549400 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.549456 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.549595 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.549609 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:13.549622 2025] [php:notice] [pid 95700] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:44:17.350343 2025] [access_compat:error] [pid 95679] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 15:47:21.854279 2025] [access_compat:error] [pid 95933] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 15:55:32.537913 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:32.537966 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:32.539131 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:32.539145 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:32.539157 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:33.718508 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:33.718557 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:33.718673 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:33.718683 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:33.718693 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:34.828710 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:34.828748 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] Array\n(\n    [clientId] => 8fd20e0b-9082-4809-a90c-c6c82e37e295\n    [clientSecret] => 6SL8Q~zqGr~eHtQFTLo2KdErMs2OtCOpNge6Ea0~\n    [redirectUri] => https://connect.doctor-agent.com/oauth/smtp-callback.php\n    [urlAuthorize] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/authorize\n    [urlAccessToken] => https://login.microsoftonline.com/1cd12daa-6658-43d2-aaf2-5ca327636ad0/oauth2/v2.0/token\n    [scope] => offline_access https://outlook.office365.com/SMTP.Send\n)\n, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:34.828853 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Provider Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:34.828860 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [START] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 15:55:34.828868 2025] [php:notice] [pid 96587] [client 118.241.132.73:0] -- [END] define OAuth Option --, referer: https://connect.doctor-agent.com/job/confirm/
+[Mon Oct 06 16:00:24.811085 2025] [access_compat:error] [pid 96863] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:20:23.104718 2025] [access_compat:error] [pid 98037] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:20:57.467011 2025] [access_compat:error] [pid 98000] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:21:04.077469 2025] [access_compat:error] [pid 98069] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:23:13.167483 2025] [access_compat:error] [pid 98323] [client 162.142.125.222:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:23:18.402756 2025] [access_compat:error] [pid 98329] [client 162.142.125.222:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wiki
+[Mon Oct 06 16:25:17.640386 2025] [access_compat:error] [pid 98422] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:30:46.538483 2025] [access_compat:error] [pid 98744] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:31:59.669242 2025] [access_compat:error] [pid 98738] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:33:52.650850 2025] [access_compat:error] [pid 98862] [client 45.144.212.235:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 16:38:16.078576 2025] [access_compat:error] [pid 98923] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 16:43:30.698456 2025] [access_compat:error] [pid 99416] [client 199.45.154.154:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:43:37.736120 2025] [access_compat:error] [pid 99159] [client 199.45.154.154:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/robots.txt
+[Mon Oct 06 16:47:47.777600 2025] [access_compat:error] [pid 99679] [client 20.163.15.167:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/developmentserver
+[Mon Oct 06 16:54:15.716265 2025] [access_compat:error] [pid 57] [client 15.235.224.227:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:54:46.165220 2025] [access_compat:error] [pid 99979] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 16:57:52.591839 2025] [access_compat:error] [pid 250] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 16:58:35.654635 2025] [access_compat:error] [pid 99974] [client 185.242.226.112:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:07:42.092484 2025] [access_compat:error] [pid 737] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:08:06.280315 2025] [access_compat:error] [pid 853] [client 71.6.232.20:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:13:14.248895 2025] [access_compat:error] [pid 1160] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:17:01.609096 2025] [access_compat:error] [pid 1337] [client 27.209.148.65:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:17:41.561982 2025] [access_compat:error] [pid 1051] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:20:24.504179 2025] [access_compat:error] [pid 1512] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:20:25.601053 2025] [access_compat:error] [pid 1560] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 17:20:56.573359 2025] [access_compat:error] [pid 1642] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 17:21:25.669818 2025] [access_compat:error] [pid 1523] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:21:40.514432 2025] [access_compat:error] [pid 1984] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:34:17.142768 2025] [access_compat:error] [pid 2559] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:36:57.968444 2025] [access_compat:error] [pid 2744] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:52:38.264112 2025] [access_compat:error] [pid 3702] [client 34.255.97.70:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:53:26.018790 2025] [access_compat:error] [pid 3989] [client 195.178.110.15:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:53:45.733600 2025] [access_compat:error] [pid 3729] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 17:56:46.839333 2025] [access_compat:error] [pid 4197] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:03:03.410089 2025] [access_compat:error] [pid 4593] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:04:59.376038 2025] [access_compat:error] [pid 4527] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 18:07:51.507266 2025] [access_compat:error] [pid 4725] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:08:51.102773 2025] [access_compat:error] [pid 4802] [client 144.172.115.86:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/device.rsp
+[Mon Oct 06 18:22:14.627319 2025] [access_compat:error] [pid 5803] [client 87.120.191.93:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:26:39.912453 2025] [access_compat:error] [pid 5855] [client 103.252.89.75:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:30:21.425080 2025] [access_compat:error] [pid 6254] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 18:30:22.086830 2025] [access_compat:error] [pid 6256] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 18:30:22.242978 2025] [access_compat:error] [pid 6254] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 18:30:24.442106 2025] [access_compat:error] [pid 5855] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/api
+[Mon Oct 06 18:30:26.110871 2025] [access_compat:error] [pid 6063] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 18:30:26.137072 2025] [access_compat:error] [pid 5855] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/backend
+[Mon Oct 06 18:30:26.755174 2025] [access_compat:error] [pid 5798] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 18:30:27.930086 2025] [access_compat:error] [pid 6168] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 18:30:28.985257 2025] [access_compat:error] [pid 6255] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.example
+[Mon Oct 06 18:30:29.980319 2025] [access_compat:error] [pid 6256] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.example
+[Mon Oct 06 18:30:30.408564 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app_dev.php
+[Mon Oct 06 18:30:32.111616 2025] [access_compat:error] [pid 6169] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/app_dev.php
+[Mon Oct 06 18:30:32.166386 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:30:32.273924 2025] [access_compat:error] [pid 6174] [client 167.94.146.53:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:30:33.384877 2025] [access_compat:error] [pid 6285] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/stats
+[Mon Oct 06 18:30:34.097735 2025] [access_compat:error] [pid 6287] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/tmp
+[Mon Oct 06 18:30:34.187382 2025] [access_compat:error] [pid 6282] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:30:34.747809 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/htdocs
+[Mon Oct 06 18:30:35.467372 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/facturacion
+[Mon Oct 06 18:30:36.468467 2025] [access_compat:error] [pid 6285] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/local.env
+[Mon Oct 06 18:30:37.574273 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/videos
+[Mon Oct 06 18:30:38.248936 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/example.env
+[Mon Oct 06 18:30:39.265671 2025] [access_compat:error] [pid 6285] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/horde
+[Mon Oct 06 18:30:40.070730 2025] [access_compat:error] [pid 6285] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/fileserver
+[Mon Oct 06 18:30:41.308565 2025] [access_compat:error] [pid 6285] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.swp
+[Mon Oct 06 18:30:42.647493 2025] [access_compat:error] [pid 6283] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/root
+[Mon Oct 06 18:30:43.641956 2025] [access_compat:error] [pid 6293] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/logging
+[Mon Oct 06 18:30:44.682621 2025] [access_compat:error] [pid 6293] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/rest
+[Mon Oct 06 18:30:45.804320 2025] [access_compat:error] [pid 6293] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/phpinfos.php
+[Mon Oct 06 18:30:46.613958 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.development.local
+[Mon Oct 06 18:30:48.839479 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/http
+[Mon Oct 06 18:30:49.142004 2025] [access_compat:error] [pid 5996] [client 167.94.146.53:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/login
+[Mon Oct 06 18:30:50.908900 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/sessions
+[Mon Oct 06 18:30:51.852237 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/example
+[Mon Oct 06 18:30:52.718830 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/logon.env
+[Mon Oct 06 18:30:55.299517 2025] [access_compat:error] [pid 6291] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/m
+[Mon Oct 06 18:30:56.035385 2025] [access_compat:error] [pid 6282] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/static
+[Mon Oct 06 18:30:57.067395 2025] [access_compat:error] [pid 6069] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env.dev
+[Mon Oct 06 18:30:57.798641 2025] [access_compat:error] [pid 6282] [client 78.153.140.151:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/user
+[Mon Oct 06 18:36:16.165960 2025] [access_compat:error] [pid 6564] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:40:18.362679 2025] [access_compat:error] [pid 6847] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 18:40:45.399923 2025] [access_compat:error] [pid 6849] [client 178.62.69.40:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 18:40:46.944671 2025] [access_compat:error] [pid 6844] [client 178.62.69.40:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 18:48:09.497945 2025] [access_compat:error] [pid 7267] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:48:16.504272 2025] [access_compat:error] [pid 7167] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:48:26.054427 2025] [access_compat:error] [pid 7276] [client 91.208.184.85:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/php-cgi
+[Mon Oct 06 18:48:52.847898 2025] [access_compat:error] [pid 7327] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:49:30.553796 2025] [access_compat:error] [pid 7368] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:50:33.303039 2025] [access_compat:error] [pid 7450] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 18:56:33.840011 2025] [access_compat:error] [pid 7702] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:13:13.473163 2025] [access_compat:error] [pid 8743] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 19:27:50.793330 2025] [access_compat:error] [pid 9595] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:28:31.977555 2025] [access_compat:error] [pid 9422] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 19:34:19.219353 2025] [access_compat:error] [pid 10017] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:39:52.984122 2025] [access_compat:error] [pid 10274] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:40:51.685333 2025] [access_compat:error] [pid 10291] [client 43.153.12.58:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:41:02.077547 2025] [access_compat:error] [pid 10014] [client 91.224.92.17:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:43:08.556745 2025] [access_compat:error] [pid 10436] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 19:52:40.879363 2025] [access_compat:error] [pid 10998] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:06:03.288145 2025] [access_compat:error] [pid 11711] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:15:37.968253 2025] [access_compat:error] [pid 12257] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:16:45.870897 2025] [access_compat:error] [pid 12420] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 20:17:57.659925 2025] [access_compat:error] [pid 12487] [client 71.6.232.29:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:18:24.112469 2025] [access_compat:error] [pid 12531] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:19:30.979391 2025] [access_compat:error] [pid 12496] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:19:35.853150 2025] [access_compat:error] [pid 12496] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:20:25.948034 2025] [access_compat:error] [pid 12498] [client 172.202.114.34:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/autodiscover
+[Mon Oct 06 20:26:15.444837 2025] [access_compat:error] [pid 12948] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:38:00.603446 2025] [access_compat:error] [pid 13364] [client 144.172.116.36:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/boaform, referer: http://153.127.111.208:80/admin/login.asp
+[Mon Oct 06 20:43:20.793098 2025] [access_compat:error] [pid 13886] [client 13.86.113.121:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:43:30.831688 2025] [access_compat:error] [pid 13839] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 20:58:09.710926 2025] [access_compat:error] [pid 14794] [client 196.251.70.174:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:01:58.922437 2025] [access_compat:error] [pid 14998] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/php
+[Mon Oct 06 21:04:06.984432 2025] [access_compat:error] [pid 15141] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 21:04:07.501261 2025] [access_compat:error] [pid 15138] [client 141.98.82.26:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/admin
+[Mon Oct 06 21:05:00.388312 2025] [access_compat:error] [pid 15142] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:06:52.465968 2025] [access_compat:error] [pid 15308] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:08:09.061580 2025] [access_compat:error] [pid 15308] [client 35.245.9.238:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:09:54.439215 2025] [access_compat:error] [pid 15475] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:16:50.092899 2025] [access_compat:error] [pid 16015] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:20:42.221240 2025] [access_compat:error] [pid 16154] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:30:25.525027 2025] [access_compat:error] [pid 16607] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 21:30:50.097798 2025] [access_compat:error] [pid 16714] [client 115.227.96.60:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:31:44.947730 2025] [access_compat:error] [pid 16845] [client 220.250.11.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:32:16.844328 2025] [access_compat:error] [pid 16844] [client 204.76.203.212:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:32:21.667814 2025] [access_compat:error] [pid 16848] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 21:34:24.338456 2025] [access_compat:error] [pid 17065] [client 8.219.209.185:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:37:50.042187 2025] [access_compat:error] [pid 17202] [client 43.135.144.126:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:44:37.823923 2025] [access_compat:error] [pid 17543] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:45:33.458712 2025] [access_compat:error] [pid 17616] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:47:47.805781 2025] [access_compat:error] [pid 17555] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:48:23.641587 2025] [access_compat:error] [pid 17886] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:50:41.878908 2025] [access_compat:error] [pid 17914] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:51:24.629745 2025] [access_compat:error] [pid 18056] [client 93.123.109.214:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:51:48.947950 2025] [access_compat:error] [pid 18061] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 21:59:20.957123 2025] [access_compat:error] [pid 18441] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:05:07.169758 2025] [access_compat:error] [pid 18866] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 22:14:09.325325 2025] [access_compat:error] [pid 19280] [client 2001:470:1:332::37:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:14:35.379830 2025] [access_compat:error] [pid 19346] [client 2001:470:1:332::37:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/webui
+[Mon Oct 06 22:28:30.464027 2025] [access_compat:error] [pid 20127] [client 103.252.89.75:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:30:01.529960 2025] [access_compat:error] [pid 19993] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 22:31:17.565514 2025] [access_compat:error] [pid 21369] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:35:55.891391 2025] [access_compat:error] [pid 21520] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:37:13.399722 2025] [access_compat:error] [pid 21634] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:40:41.889980 2025] [access_compat:error] [pid 21881] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:41:14.074674 2025] [access_compat:error] [pid 21872] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:41:40.591425 2025] [access_compat:error] [pid 21933] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:42:47.896845 2025] [access_compat:error] [pid 22013] [client 2001:470:1:332::a:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:43:11.128442 2025] [access_compat:error] [pid 22023] [client 206.168.34.122:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 22:43:44.812830 2025] [access_compat:error] [pid 22065] [client 206.168.34.122:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/sitemap.xml
+[Mon Oct 06 22:44:42.482393 2025] [access_compat:error] [pid 22089] [client 2001:470:1:332::a:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/webui
+[Mon Oct 06 22:46:41.770523 2025] [access_compat:error] [pid 22056] [client 196.251.83.129:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 22:46:42.363848 2025] [access_compat:error] [pid 22056] [client 196.251.83.129:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp-content
+[Mon Oct 06 23:01:12.612946 2025] [access_compat:error] [pid 23013] [client 195.178.110.109:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:11:21.200846 2025] [access_compat:error] [pid 23645] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:14:29.768997 2025] [access_compat:error] [pid 23900] [client 185.244.104.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/, referer: http://153.127.111.208:443/
+[Mon Oct 06 23:15:15.968600 2025] [access_compat:error] [pid 23889] [client 104.248.21.234:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.env
+[Mon Oct 06 23:15:16.529659 2025] [access_compat:error] [pid 23889] [client 104.248.21.234:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 23:17:20.130112 2025] [access_compat:error] [pid 24047] [client 34.34.144.227:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:19:50.964981 2025] [access_compat:error] [pid 24162] [client 87.120.191.6:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:19:54.901071 2025] [access_compat:error] [pid 24162] [client 87.120.191.91:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:22:19.982341 2025] [access_compat:error] [pid 24161] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:23:11.228749 2025] [access_compat:error] [pid 24329] [client 87.120.191.92:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:35:53.332087 2025] [access_compat:error] [pid 24735] [client 37.59.21.100:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/wp
+[Mon Oct 06 23:36:47.368650 2025] [access_compat:error] [pid 24730] [client 204.76.203.219:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:37:28.571936 2025] [access_compat:error] [pid 25046] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:37:29.673681 2025] [access_compat:error] [pid 25182] [client 170.39.218.2:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/.git
+[Mon Oct 06 23:54:08.593039 2025] [access_compat:error] [pid 25996] [client 185.224.128.52:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/assets
+[Mon Oct 06 23:56:10.954660 2025] [access_compat:error] [pid 26233] [client 87.120.191.90:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
+[Mon Oct 06 23:56:35.679839 2025] [access_compat:error] [pid 26239] [client 204.76.203.155:0] AH01797: client denied by server configuration: /home/orchidhippo5/www/
