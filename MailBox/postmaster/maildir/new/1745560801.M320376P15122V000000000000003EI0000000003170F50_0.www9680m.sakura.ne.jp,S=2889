@@ -1,0 +1,36 @@
+Return-Path: <orchidhippo5@www9680m.sakura.ne.jp>
+Received: from www9680m.sakura.ne.jp (localhost [127.0.0.1])
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1) with ESMTP id 53P601el015120
+	for <orchidhippo5@www9680m.sakura.ne.jp>; Fri, 25 Apr 2025 15:00:01 +0900 (JST)
+	(envelope-from orchidhippo5@www9680m.sakura.ne.jp)
+Received: (from orchidhippo5@localhost)
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1/Submit) id 53P601bc015119;
+	Fri, 25 Apr 2025 15:00:01 +0900 (JST)
+	(envelope-from orchidhippo5)
+Date: Fri, 25 Apr 2025 15:00:01 +0900 (JST)
+Message-Id: <202504250600.53P601bc015119@www9680m.sakura.ne.jp>
+From: Cron Daemon <orchidhippo5@www9680m.sakura.ne.jp>
+To: orchidhippo5@www9680m.sakura.ne.jp
+Subject: Cron <orchidhippo5@www9680m> /usr/local/bin/php /home/orchidhippo5/www/connect/_cms/wp-cron.php 1> /dev/null
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <LOGNAME=orchidhippo5>
+X-Cron-Env: <USER=orchidhippo5>
+
+WordPress database error Table 'connect-db.wp_posts' doesn't exist for query SELECT   wp_posts.*
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'acf-taxonomy' AND ((wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled'))
+					 
+					 ORDER BY wp_posts.menu_order ASC, wp_posts.post_title ASC
+					  made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ACF->init, do_action('acf/init'), WP_Hook->do_action, WP_Hook->apply_filters, ACF_Taxonomy->register_taxonomies, ACF_Internal_Post_Type->get_posts, ACF_Internal_Post_Type->get_raw_posts, get_posts, WP_Query->query, WP_Query->get_posts
+WordPress database error Table 'connect-db.wp_posts' doesn't exist for query SELECT   wp_posts.*
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'acf-post-type' AND ((wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled'))
+					 
+					 ORDER BY wp_posts.menu_order ASC, wp_posts.post_title ASC
+					  made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ACF->init, do_action('acf/init'), WP_Hook->do_action, WP_Hook->apply_filters, ACF_Post_Type->register_post_types, ACF_Internal_Post_Type->get_posts, ACF_Internal_Post_Type->get_raw_posts, get_posts, WP_Query->query, WP_Query->get_posts
+WordPress database error Table 'connect-db.wp_posts' doesn't exist for query SELECT   wp_posts.*
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'research' AND ((wp_posts.post_status = 'publish'))
+					 
+					 ORDER BY wp_posts.menu_order ASC
+					  made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, add_new_rewrite_rule, WP_Query->__construct, WP_Query->query, WP_Query->get_posts

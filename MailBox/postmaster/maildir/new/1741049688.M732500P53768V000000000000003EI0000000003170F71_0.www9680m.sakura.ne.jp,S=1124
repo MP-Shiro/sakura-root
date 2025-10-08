@@ -1,0 +1,26 @@
+Return-Path: <orchidhippo5@www9680m.sakura.ne.jp>
+Received: from www9680m.sakura.ne.jp (localhost [127.0.0.1])
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1) with ESMTP id 5240smRI053766
+	for <orchidhippo5@www9680m.sakura.ne.jp>; Tue, 4 Mar 2025 09:54:48 +0900 (JST)
+	(envelope-from orchidhippo5@www9680m.sakura.ne.jp)
+Received: (from orchidhippo5@localhost)
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1/Submit) id 5240smVM053763;
+	Tue, 4 Mar 2025 09:54:48 +0900 (JST)
+	(envelope-from orchidhippo5)
+Date: Tue, 4 Mar 2025 09:54:48 +0900 (JST)
+Message-Id: <202503040054.5240smVM053763@www9680m.sakura.ne.jp>
+X-vi-data: file;YXV0aG9yaXplZF9rZXlz
+X-vi-data: path;L3Zhci90bXAvdmkucmVjb3Zlci92aS5LOXI5SlU=
+From: root@www9680m.sakura.ne.jp (Nvi recovery program)
+To: orchidhippo5@www9680m.sakura.ne.jp
+Subject: Nvi saved the file authorized_keys
+Precedence: bulk
+
+On Tue Mar  4 09:54:41 2025, the user orchidhippo5 was
+editing a file named authorized_keys on the machine
+www9680m.sakura.ne.jp, when it was saved for recovery. You
+can recover most, if not all, of the changes to this file
+using the -r option to vi:
+
+	vi -r authorized_keys
+

@@ -1,0 +1,6 @@
+SETUPURL|ctrl|mt.cgi|
+USE_MYSQL|ctrl|5.0|
+LICENSE|ctrl|GPLv2|
+PORTEPOCH|ctrl|1|
+CGISUBDIR|dir|must=y|
+UPDATE|ctrl|1|

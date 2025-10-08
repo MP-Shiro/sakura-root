@@ -1,0 +1,97 @@
+Return-Path: <MAILER-DAEMON@www9680m.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1) id 53B0wgAG095896;
+	Fri, 11 Apr 2025 09:58:42 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Fri, 11 Apr 2025 09:58:42 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <202504110058.53B0wgAG095896@www9680m.sakura.ne.jp>
+To: <orchidhippo5@www9680m.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="53B0wgAG095896.1744333122/www9680m.sakura.ne.jp"
+Content-Transfer-Encoding: 8bit
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--53B0wgAG095896.1744333122/www9680m.sakura.ne.jp
+
+The original message was received at Fri, 11 Apr 2025 09:58:40 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mppsp.test01@gmail.com>
+    (reason: 550-5.7.26 Your email has been blocked because the sender is unauthenticated.)
+
+   ----- Transcript of session follows -----
+... while talking to gmail-smtp-in.l.google.com.:
+>>> DATA
+<<< 550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+<<< 550-5.7.26 Gmail requires all senders to authenticate with either SPF or DKIM.
+<<< 550-5.7.26 
+<<< 550-5.7.26  Authentication results:
+<<< 550-5.7.26  DKIM = did not pass
+<<< 550-5.7.26  SPF [www9680m.sakura.ne.jp] with ip: [153.127.111.80] = did not pass
+<<< 550-5.7.26 
+<<< 550-5.7.26  For instructions on setting up authentication, go to
+<<< 550 5.7.26  https://support.google.com/mail/answer/81126#authentication 41be03b00d2f7-b02a302e4d8si5202429a12.405 - gsmtp
+554 5.0.0 Service unavailable
+
+--53B0wgAG095896.1744333122/www9680m.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www9680m.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Fri, 11 Apr 2025 09:58:40 +0900 (JST)
+
+Final-Recipient: RFC822; mppsp.test01@gmail.com
+X-Actual-Recipient: rfc822; mppsp.test01@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: DNS; gmail-smtp-in.l.google.com
+Diagnostic-Code: SMTP; 550-5.7.26 Your email has been blocked because the sender is unauthenticated.
+Last-Attempt-Date: Fri, 11 Apr 2025 09:58:42 +0900 (JST)
+
+--53B0wgAG095896.1744333122/www9680m.sakura.ne.jp
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <orchidhippo5@www9680m.sakura.ne.jp>
+Received: from www9680m.sakura.ne.jp (localhost [127.0.0.1])
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1) with ESMTP id 53B0weAG095894
+	for <mppsp.test01@gmail.com>; Fri, 11 Apr 2025 09:58:40 +0900 (JST)
+	(envelope-from orchidhippo5@www9680m.sakura.ne.jp)
+Received: (from orchidhippo5@localhost)
+	by www9680m.sakura.ne.jp (8.16.1/8.16.1/Submit) id 53B0wehc095893;
+	Fri, 11 Apr 2025 09:58:40 +0900 (JST)
+	(envelope-from orchidhippo5)
+To: mppsp.test01@gmail.com
+Subject: =?UTF-8?B?5paw44GX44GEIFdvcmRQcmVzcyDjgrXjgqTjg4g=?=
+X-PHP-Originating-Script: 1001:PHPMailer.php
+Date: Fri, 11 Apr 2025 00:58:40 +0000
+From: WordPress <wordpress@stg-connect.doctor-agent.com>
+Message-ID: <YgiEkJCZUzijTAXRwJnTmOKW1jApOzMfwDAnTR4@stg-connect.doctor-agent.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+新しい WordPress サイトの設置に成功しました:
+https://stg-connect.doctor-agent.com/_cms
+
+以下の情報を使って、管理者としてログインできます:
+
+ユーザー名: admin
+パスワード: インストール中に選択したパスワード。
+ログイン先: https://stg-connect.doctor-agent.com/_cms/wp-login.php
+
+新しいサイトをお楽しみください。どうもありがとうございます !
+
+-- WordPress 運営チーム
+https://ja.wordpress.org/
+
+
+--53B0wgAG095896.1744333122/www9680m.sakura.ne.jp--
+

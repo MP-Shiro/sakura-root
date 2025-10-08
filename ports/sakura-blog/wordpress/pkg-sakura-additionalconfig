@@ -1,0 +1,47 @@
+{
+  "title": "WordPressサイト情報",
+  "description": "すべての項目はインストール後に変更可能です。",
+  "options": [
+    {
+      "name": "SITETITLE",
+      "type": "text",
+      "title": "サイトのタイトル",
+      "description": "空で送ると「untitled」が入ります。",
+      "required": false
+    },
+    {
+      "name": "ADMINNAME",
+      "type": "text",
+      "title": "WordPressユーザー名",
+      "description": "ユーザー名には、半角英数字、スペース、下線、ハイフン、ピリオド、アットマーク (@) のみが使用できます。",
+      "pattern": "/^[a-z0-9 @\\-._]+$/",
+      "required": true
+    },
+    {
+      "name": "ADMINPASSWORD",
+      "type": "password",
+      "title": "WordPressパスワード",
+      "description": "WordPressのログイン時にこのパスワードが必要になります。安全な場所に保管してください。大文字と小文字を含めた英字/数字/記号を組合わせた12文字以上32文字以内。半角英数字とハイフン、ピリオド、アットマーク (@) などの記号が使用可能です。バックスラッシュ(\\)、シングルクォート(')はご利用いただけません。",
+      "pattern": "/^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])[\\x21-\\x26\\x28-\\x5b\\x5d-\\x7e]+$/",
+      "minlength": 12,
+      "maxlength": 32,
+      "required": true
+    },
+    {
+      "name": "ADMINMAILADDRESS",
+      "type": "email",
+      "title": "メールアドレス",
+      "description": "メールアドレスはパスワードを忘れた際に必要になりますので、日常的にお使いのものを入力してください。",
+      "pattern": "/^([a-zA-Z0-9\\.\\/?_~!])+([-a-z0-9\\.\\/?_~!])*@([a-z0-9\\-.])+$/",
+      "required" : true
+    },
+    {
+      "name": "BLOG_PRIVATE",
+      "type": "checkbox",
+      "title": "検索エンジンでの表示",
+      "description": "構築当初は設定しておくことをおすすめします。このリクエストを尊重するかどうかは検索エンジンの設定によります。",
+      "label": "検索エンジンがサイトをインデックスしないようにする",
+      "required": false
+    }
+  ]
+}

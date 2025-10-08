@@ -1,0 +1,10 @@
+if ( /^X-VADE-SPAMSTATE:/ )
+{
+	if ( /^X-VADE-SPAMSCORE:\s*(\d+)$/ && $MATCH1 >= 100 && $MATCH1 < 10000 )
+	{
+		if ( ! ( /^From:\s*(.*)/ && lookup( $MATCH1, ".whitelist" ) ) )
+		{
+			to "maildir/.spam/"
+		}
+	}
+}
